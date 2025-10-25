@@ -1,0 +1,2 @@
+message = 'hw'
+print(message)
